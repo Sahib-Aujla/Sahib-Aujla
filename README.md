@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I'm looking for roles as a Junior Developer.
-- 🌱 I’m currently learning kafka
+- 🌱 I’m currently working on open source projects.
 - 📫 Reach me on LinkedIn
 
 
