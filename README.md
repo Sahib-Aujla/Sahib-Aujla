@@ -1,18 +1,185 @@
-# 💫 About Me:
-- 🔭 I'm looking for roles as a Junior Developer.
-- 🌱 I’m currently working on open source projects.
-- 📫 Reach me on LinkedIn
+## 👨‍💻 **Sahibpreet Singh** 
+Software Developer
+
+Welcome to my GitHub! I'm a passionate software developer with a strong foundation in cloud computing, full-stack development, and scalable microservices. With a deep appreciation for clean and maintainable code, I thrive on solving complex problems and building impactful solutions. Now learning to be a web3 developer 🫡
+
+### 🌟 **About Me**  
+- **Education:** Advanced Diploma in Computer Programming and Analysis (GPA: 4.0/4.0), Seneca Polytechnic  
+- **Experience:** Software Developer Intern at RBC, where I contributed as a full stack developer utlising angular for frontend and Springboot for backend. 
+- **Open-Source Advocate:** Contributed in Hacktoberfest 2024.  
+
+### 🔧 **Skills & Technologies**  
+- **Languages:** Javascript, Java, TypeScript, Solidity
+- **Frontend:** React.js, Next.js, HTML/CSS, Bootstrap  
+- **Backend:** Node.js, SpringBoot  
+- **Cloud:** AWS cloud practitioner, AWS (EC2, ECS, S3, DynamoDB, Lambda)  
+- **DevOps:** Docker, Kubernetes, GitHub Actions, AWS
+- **Databases:** SQL, PostgreSQL, MongoDB  
+
+### 🏆 **Notable Projects**  
+- **Fragments Microservices:** Built a scalable AWS-based microservice architecture with secure authentication, optimized data management, and automated CI/CD pipelines.  
+- **Screen Recorder** An application built for screen recording and uploading it to CDN for fast retrieval. 
+- **Travel Advisor** An interactive application recommending tourist destinations utilizing google maps API.
+
+### 📫 **Let’s Collaborate!**  
+I'm always excited to contribute to innovative projects or collaborate on open-source initiatives. If you’re working on something awesome or need help with cloud, blockchain, microservices, or automation, feel free to reach out or fork my repositories!
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahibpreet-singh-02706a223/) 
+<h3 align="left">▶ Connect with me:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/sahibpreet-singh-02706a223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahibpreet-singh-02706a223/)](https://www.linkedin.com/in/sahibpreet-singh-02706a223/"></a>  
+  </p>
+</br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahib-Aujla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">▶ Languages and Tools:</h3>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+      <a href="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+    
+  </a>
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <a href="https://expressjs.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+      <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+      <a href="https://postman.com" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+  </kbd>
+   
+ <kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+      <a href="https://redux.js.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="30"
+      height="30"
+    />
+  </a>
+     <a href="https://sass-lang.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+     <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="30"
+      height="30"
+    />
+  </kbd>
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+  </kbd>
+  <br>
+  <br>
+    <kbd>Terminal Scripts</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> -->
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> -->
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
+  </kbd>
+   <kbd>
+</br>
+    </p>
+<h3 align="left">▶ Stats:</h3>
+<!-- <p align="center">
+<img src="https://metrics.lecoq.io/aakashsh1999?template=terminal&config.timezone=Asia%2FCalcutta" alt="aakashsh1999"
+</p>
+ -->
+<p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/aakashsh1999?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/aakashsh1999/?style=for-the-badge"/>
+</p>
+<p align="center"><img src="https://badges.pufler.dev/commits/monthly/aakashsh1999"/></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Sahib-Aujla&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- <img src="https://github.com/aakashsh1999/aakashsh1999/blob/output/github-contribution-grid-snake.svg" /></p> -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--
+[![Spotify](https://novatorem-tekyaygilfethi.vercel.app/api/spotify)](https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq)
+-->
+<!-- <hr>
+<h2 align="center">Now Playing</h2>
+ <a href ="https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq">
+<p align="center"> -->
+
+<!-- <img src="https://novatorem-tekyaygilfethi.vercel.app/api/spotify" alt="Spotify Now Playing" width="550" /> -->
+
+</p>
+  </a>
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahib-Aujla&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahib-Aujla&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user==Sahib-Aujla&theme=holi-theme">
+</p>
+
+
