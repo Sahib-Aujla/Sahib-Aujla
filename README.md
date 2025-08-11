@@ -176,7 +176,6 @@ I'm always excited to contribute to innovative projects or collaborate on open-s
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahib-Aujla&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user==Sahib-Aujla&theme=holi-theme">
-</p>
+
 
 
